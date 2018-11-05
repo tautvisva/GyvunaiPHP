@@ -3,10 +3,10 @@
 ## Užduotis
 Sukurti PHP programą. Programa automatiškai nuskaito Duombazę, suformuoja gyvūnus ir paklausia vartotojo kurį gyvūną parodyti. Kai vartotojas įveda pasirinkimą pateikiama visa gyvūno informacija bei iškviečiamas jo judėjimo veiksmas.
 
-## Duomenų failo aprašymas
+## Duomenų struktūros aprašymas
 Lentelėje yra duomenys apie įvairius gyvūnus. 
 ```
-Gyvunas | Vardas | Svoris | Ugis | Veiksmas
+Gyvunas | Rūšis | Vardas | Svoris | Ugis | Veiksmas
 dog mammal Bobikas 3.5 0.5 walk
 cat mammal Silvestras 1.9 0.35 sneak
 pigeon bird Tveetty 0.1 0.05 fly
